@@ -1,9 +1,9 @@
 '''
 RenameBot
 Thanks to Spechide Unkle as always for the concept  ♥️
-This file is a part of mrvishal2k2 rename repo 
+This file is a part of Annu9080 rename repo 
 Dont kang !!!
-© Mrvishal2k2
+© Annu9080
 '''
 import os
 import logging
