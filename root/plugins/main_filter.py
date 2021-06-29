@@ -1,8 +1,8 @@
 '''
 RenameBot
-This file is a part of mrvishal2k2 rename repo 
+This file is a part of annu9080 rename repo 
 Dont kang !!!
-© Mrvishal2k2
+© Annu9080
 '''
 import pyrogram
 from pyrogram import Client, filters
